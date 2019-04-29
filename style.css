@@ -1,0 +1,28 @@
+div{
+  text-align: left;
+}
+
+#Welcome{
+  min-height: 100px;
+  width: 100%;
+  background-color: rgb(224,187,228);
+  color: rgb(100,70,120);
+}
+
+#Announcements{
+  min-height: 100px;
+  width: 100%;
+  background-color: rgb(100,70,120);  
+  color: rgb(224,187,228);
+}
+
+#Announcements a{
+    color: rgb(255,255,255);
+}
+
+img{
+  margin: 5px;
+  display: inline-flex;
+  height: 150px;
+  width: auto;
+}
